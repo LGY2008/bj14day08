@@ -8,4 +8,4 @@ class Test01:
     def test003(self):
         print("test003被执行")
         # 断言失败
-        assert 0
+        assert 1
